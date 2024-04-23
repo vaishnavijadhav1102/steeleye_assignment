@@ -22,7 +22,7 @@ dict2 = json.loads(y.text)
 
 # dict1.keys()
 
-dict1['laureates']
+# dict1['laureates']
 
 
 
