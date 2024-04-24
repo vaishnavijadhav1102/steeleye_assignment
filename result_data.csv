@@ -1,0 +1,969 @@
+,id,name,dob,unique_prize_year,unique_prize_category,gender,bornCountryCode
+0,1,Wilhelm Conrad Röntgen,1845-03-27,1901,physics,male,DE
+1,2,Hendrik A. Lorentz,1853-07-18,1902,physics,male,NL
+2,3,Pieter Zeeman,1865-05-25,1902,physics,male,NL
+3,4,Henri Becquerel,1852-12-15,1903,physics,male,FR
+4,5,Pierre Curie,1859-05-15,1903,physics,male,FR
+5,6,Marie Curie,1867-11-07,1911;1903,physics;chemistry,female,PL
+6,8,Lord Rayleigh,1842-11-12,1904,physics,male,GB
+7,9,Philipp Lenard,1862-06-07,1905,physics,male,SK
+8,10,J.J. Thomson,1856-12-18,1906,physics,male,GB
+9,11,Albert A. Michelson,1852-12-19,1907,physics,male,PL
+10,12,Gabriel Lippmann,1845-08-16,1908,physics,male,LU
+11,13,Guglielmo Marconi,1874-04-25,1909,physics,male,IT
+12,14,Ferdinand Braun,1850-06-06,1909,physics,male,DE
+13,15,Johannes Diderik van der Waals,1837-11-23,1910,physics,male,NL
+14,16,Wilhelm Wien,1864-01-13,1911,physics,male,RU
+15,17,Gustaf Dalén,1869-11-30,1912,physics,male,SE
+16,18,Heike Kamerlingh Onnes,1853-09-21,1913,physics,male,NL
+17,19,Max von Laue,1879-10-09,1914,physics,male,DE
+18,20,William Bragg,1862-07-02,1915,physics,male,GB
+19,21,Lawrence Bragg,1890-03-31,1915,physics,male,AU
+20,22,Charles Glover Barkla,1877-06-07,1917,physics,male,GB
+21,23,Max Planck,1858-04-23,1918,physics,male,DE
+22,24,Johannes Stark,1874-04-15,1919,physics,male,DE
+23,25,Charles Edouard Guillaume,1861-02-15,1920,physics,male,CH
+24,26,Albert Einstein,1879-03-14,1921,physics,male,DE
+25,27,Niels Bohr,1885-10-07,1922,physics,male,DK
+26,28,Robert A. Millikan,1868-03-22,1923,physics,male,US
+27,29,Manne Siegbahn,1886-12-03,1924,physics,male,SE
+28,30,James Franck,1882-08-26,1925,physics,male,DE
+29,31,Gustav Hertz,1887-07-22,1925,physics,male,DE
+30,32,Jean Baptiste Perrin,1870-09-30,1926,physics,male,FR
+31,33,Arthur H. Compton,1892-09-10,1927,physics,male,US
+32,34,C.T.R. Wilson,1869-02-14,1927,physics,male,GB
+33,35,Owen Willans Richardson,1879-04-26,1928,physics,male,GB
+34,36,Louis de Broglie,1892-08-15,1929,physics,male,FR
+35,37,Sir Chandrasekhara Venkata Raman,1888-11-07,1930,physics,male,IN
+36,38,Werner Heisenberg,1901-12-05,1932,physics,male,DE
+37,39,Erwin Schrödinger,1887-08-12,1933,physics,male,AT
+38,40,Paul A.M. Dirac,1902-08-08,1933,physics,male,GB
+39,41,James Chadwick,1891-10-20,1935,physics,male,GB
+40,42,Victor F. Hess,1883-06-24,1936,physics,male,AT
+41,43,Carl D. Anderson,1905-09-03,1936,physics,male,US
+42,44,Clinton Davisson,1881-10-22,1937,physics,male,US
+43,45,George Paget Thomson,1892-05-03,1937,physics,male,GB
+44,46,Enrico Fermi,1901-09-29,1938,physics,male,IT
+45,47,Ernest Lawrence,1901-08-08,1939,physics,male,US
+46,48,Otto Stern,1888-02-17,1943,physics,male,PL
+47,49,Isidor Isaac Rabi,1898-07-29,1944,physics,male,PL
+48,50,Wolfgang Pauli,1900-04-25,1945,physics,male,AT
+49,51,Percy W. Bridgman,1882-04-21,1946,physics,male,US
+50,52,Edward V. Appleton,1892-09-06,1947,physics,male,GB
+51,53,Patrick M.S. Blackett,1897-11-18,1948,physics,male,GB
+52,54,Hideki Yukawa,1907-01-23,1949,physics,male,JP
+53,55,Cecil Powell,1903-12-05,1950,physics,male,GB
+54,56,John Cockcroft,1897-05-27,1951,physics,male,GB
+55,57,Ernest T.S. Walton,1903-10-06,1951,physics,male,IE
+56,58,Felix Bloch,1905-10-23,1952,physics,male,CH
+57,59,E. M. Purcell,1912-08-30,1952,physics,male,US
+58,60,Frits Zernike,1888-07-16,1953,physics,male,NL
+59,61,Max Born,1882-12-11,1954,physics,male,PL
+60,62,Walther Bothe,1891-01-08,1954,physics,male,DE
+61,63,Willis E. Lamb,1913-07-12,1955,physics,male,US
+62,64,Polykarp Kusch,1911-01-26,1955,physics,male,DE
+63,65,William B. Shockley,1910-02-13,1956,physics,male,GB
+64,66,John Bardeen,1908-05-23,1956;1972,physics,male,US
+65,67,Walter H. Brattain,1902-02-10,1956,physics,male,CN
+66,68,Chen Ning Yang,1922-09-22,1957,physics,male,CN
+67,69,Tsung-Dao Lee,1926-11-24,1957,physics,male,CN
+68,70,Pavel A. Cherenkov,1904-07-28,1958,physics,male,RU
+69,71,Igor Y. Tamm,1895-07-08,1958,physics,male,RU
+70,72,Emilio Segrè,1905-02-01,1959,physics,male,IT
+71,73,Owen Chamberlain,1920-07-10,1959,physics,male,US
+72,74,Donald A. Glaser,1926-09-21,1960,physics,male,US
+73,75,Robert Hofstadter,1915-02-05,1961,physics,male,US
+74,76,Rudolf Mössbauer,1929-01-31,1961,physics,male,DE
+75,77,Lev Landau,1908-01-22,1962,physics,male,AZ
+76,78,Eugene Wigner,1902-11-17,1963,physics,male,HU
+77,79,Maria Goeppert Mayer,1906-06-28,1963,physics,female,PL
+78,80,J. Hans D. Jensen,1907-06-25,1963,physics,male,DE
+79,81,Charles H. Townes,1915-07-28,1964,physics,male,US
+80,82,Nicolay G. Basov,1922-12-14,1964,physics,male,RU
+81,83,Aleksandr M. Prokhorov,1916-07-11,1964,physics,male,AU
+82,84,Sin-Itiro Tomonaga,1906-03-31,1965,physics,male,JP
+83,85,Julian Schwinger,1918-02-12,1965,physics,male,US
+84,86,Richard P. Feynman,1918-05-11,1965,physics,male,US
+85,87,Alfred Kastler,1902-05-03,1966,physics,male,FR
+86,88,Hans Bethe,1906-07-02,1967,physics,male,FR
+87,89,Luis Alvarez,1911-06-13,1968,physics,male,US
+88,90,Murray Gell-Mann,1929-09-15,1969,physics,male,US
+89,91,Hannes Alfvén,1908-05-30,1970,physics,male,SE
+90,92,Louis Néel,1904-11-22,1970,physics,male,FR
+91,93,Dennis Gabor,1900-06-05,1971,physics,male,HU
+92,95,Leon N. Cooper,1930-02-28,1972,physics,male,US
+93,96,Robert Schrieffer,1931-05-31,1972,physics,male,US
+94,97,Leo Esaki,1925-03-12,1973,physics,male,JP
+95,98,Ivar Giaever,1929-04-05,1973,physics,male,NO
+96,99,Brian D. Josephson,1940-01-04,1973,physics,male,GB
+97,100,Martin Ryle,1918-09-27,1974,physics,male,GB
+98,101,Antony Hewish,1924-05-11,1974,physics,male,GB
+99,102,Aage N. Bohr,1922-06-19,1975,physics,male,DK
+100,103,Ben R. Mottelson,1926-07-09,1975,physics,male,US
+101,104,James Rainwater,1917-12-09,1975,physics,male,US
+102,105,Burton Richter,1931-03-22,1976,physics,male,US
+103,106,Samuel C.C. Ting,1936-01-27,1976,physics,male,US
+104,107,Philip W. Anderson,1923-12-13,1977,physics,male,US
+105,108,Sir Nevill F. Mott,1905-09-30,1977,physics,male,GB
+106,109,John H. Van Vleck,1899-03-13,1977,physics,male,US
+107,110,Pyotr Kapitsa,1894-07-09,1978,physics,male,RU
+108,111,Arno Penzias,1933-04-26,1978,physics,male,DE
+109,112,Robert Woodrow Wilson,1936-01-10,1978,physics,male,US
+110,113,Sheldon Glashow,1932-12-05,1979,physics,male,US
+111,114,Abdus Salam,1926-01-29,1979,physics,male,PK
+112,115,Steven Weinberg,1933-05-03,1979,physics,male,US
+113,116,James Cronin,1931-09-29,1980,physics,male,US
+114,117,Val Fitch,1923-03-10,1980,physics,male,US
+115,118,Nicolaas Bloembergen,1920-03-11,1981,physics,male,NL
+116,119,Arthur L. Schawlow,1921-05-05,1981,physics,male,US
+117,120,Kai M. Siegbahn,1918-04-20,1981,physics,male,SE
+118,121,Kenneth G. Wilson,1936-06-08,1982,physics,male,US
+119,122,Subramanyan Chandrasekhar,1910-10-19,1983,physics,male,PK
+120,123,William A. Fowler,1911-08-09,1983,physics,male,US
+121,124,Carlo Rubbia,1934-03-31,1984,physics,male,IT
+122,125,Simon van der Meer,1925-11-24,1984,physics,male,NL
+123,126,Klaus von Klitzing,1943-06-28,1985,physics,male,PL
+124,127,Ernst Ruska,1906-12-25,1986,physics,male,DE
+125,128,Gerd Binnig,1947-07-20,1986,physics,male,DE
+126,129,Heinrich Rohrer,1933-06-06,1986,physics,male,CH
+127,130,J. Georg Bednorz,1950-05-16,1987,physics,male,DE
+128,131,K. Alex Müller,1927-04-20,1987,physics,male,CH
+129,132,Leon M. Lederman,1922-07-15,1988,physics,male,US
+130,133,Melvin Schwartz,1932-11-02,1988,physics,male,US
+131,134,Jack Steinberger,1921-05-25,1988,physics,male,DE
+132,135,Norman F. Ramsey,1915-08-27,1989,physics,male,US
+133,136,Hans G. Dehmelt,1922-09-09,1989,physics,male,DE
+134,137,Wolfgang Paul,1913-08-10,1989,physics,male,DE
+135,138,Jerome I. Friedman,1930-03-28,1990,physics,male,US
+136,139,Henry W. Kendall,1926-12-09,1990,physics,male,US
+137,140,Richard E. Taylor,1929-11-02,1990,physics,male,CA
+138,141,Pierre-Gilles de Gennes,1932-10-24,1991,physics,male,FR
+139,142,Georges Charpak,1924-08-01,1992,physics,male,PL
+140,143,Russell A. Hulse,1950-11-28,1993,physics,male,US
+141,144,Joseph H. Taylor Jr.,1941-03-29,1993,physics,male,US
+142,145,Bertram N. Brockhouse,1918-07-15,1994,physics,male,CA
+143,146,Clifford G. Shull,1915-09-23,1994,physics,male,US
+144,147,Martin L. Perl,1927-06-24,1995,physics,male,US
+145,148,Frederick Reines,1918-03-16,1995,physics,male,US
+146,149,David M. Lee,1931-01-20,1996,physics,male,US
+147,150,Douglas D. Osheroff,1945-08-01,1996,physics,male,US
+148,151,Robert C. Richardson,1937-06-26,1996,physics,male,US
+149,152,Steven Chu,1948-02-28,1997,physics,male,US
+150,153,Claude Cohen-Tannoudji,1933-04-01,1997,physics,male,DZ
+151,154,William D. Phillips,1948-11-05,1997,physics,male,US
+152,155,Robert B. Laughlin,1950-11-01,1998,physics,male,US
+153,156,Horst L. Störmer,1949-04-06,1998,physics,male,DE
+154,157,Daniel C. Tsui,1939-02-28,1998,physics,male,CN
+155,158,Gerardus 't Hooft,1946-07-05,1999,physics,male,NL
+156,159,Martinus J.G. Veltman,1931-06-27,1999,physics,male,NL
+157,160,Jacobus H. van 't Hoff,1852-08-30,1901,chemistry,male,NL
+158,161,Emil Fischer,1852-10-09,1902,chemistry,male,DE
+159,162,Svante Arrhenius,1859-02-19,1903,chemistry,male,SE
+160,163,Sir William Ramsay,1852-10-02,1904,chemistry,male,GB
+161,164,Adolf von Baeyer,1835-10-31,1905,chemistry,male,DE
+162,165,Henri Moissan,1852-09-28,1906,chemistry,male,FR
+163,166,Eduard Buchner,1860-05-20,1907,chemistry,male,DE
+164,167,Ernest Rutherford,1871-08-30,1908,chemistry,male,NZ
+165,168,Wilhelm Ostwald,1853-09-02,1909,chemistry,male,LV
+166,169,Otto Wallach,1847-03-27,1910,chemistry,male,RU
+167,172,Victor Grignard,1871-05-06,1912,chemistry,male,FR
+168,173,Paul Sabatier,1854-11-05,1912,chemistry,male,FR
+169,174,Alfred Werner,1866-12-12,1913,chemistry,male,FR
+170,175,Theodore W. Richards,1868-01-31,1914,chemistry,male,US
+171,176,Richard Willstätter,1872-08-13,1915,chemistry,male,DE
+172,177,Fritz Haber,1868-12-09,1918,chemistry,male,PL
+173,178,Walther Nernst,1864-06-25,1920,chemistry,male,PL
+174,179,Frederick Soddy,1877-09-02,1921,chemistry,male,GB
+175,180,Francis W. Aston,1877-09-01,1922,chemistry,male,GB
+176,181,Fritz Pregl,1869-09-03,1923,chemistry,male,SI
+177,182,Richard Zsigmondy,1865-04-01,1925,chemistry,male,AT
+178,183,The Svedberg,1884-08-30,1926,chemistry,male,SE
+179,184,Heinrich Wieland,1877-06-04,1927,chemistry,male,DE
+180,185,Adolf Windaus,1876-12-25,1928,chemistry,male,DE
+181,186,Arthur Harden,1865-10-12,1929,chemistry,male,GB
+182,187,Hans von Euler-Chelpin,1873-02-15,1929,chemistry,male,DE
+183,188,Hans Fischer,1881-07-27,1930,chemistry,male,DE
+184,189,Carl Bosch,1874-08-27,1931,chemistry,male,DE
+185,190,Friedrich Bergius,1884-10-11,1931,chemistry,male,PL
+186,191,Irving Langmuir,1881-01-31,1932,chemistry,male,US
+187,192,Harold C. Urey,1893-04-29,1934,chemistry,male,US
+188,193,Frédéric Joliot,1900-03-19,1935,chemistry,male,FR
+189,194,Irène Joliot-Curie,1897-09-12,1935,chemistry,female,FR
+190,195,Peter Debye,1884-03-24,1936,chemistry,male,NL
+191,196,Norman Haworth,1883-03-19,1937,chemistry,male,GB
+192,197,Paul Karrer,1889-04-21,1937,chemistry,male,RU
+193,198,Richard Kuhn,1900-12-03,1938,chemistry,male,AT
+194,199,Adolf Butenandt,1903-03-24,1939,chemistry,male,DE
+195,200,Leopold Ruzicka,1887-09-13,1939,chemistry,male,HR
+196,201,George de Hevesy,1885-08-01,1943,chemistry,male,HU
+197,202,Otto Hahn,1879-03-08,1944,chemistry,male,DE
+198,203,Artturi Virtanen,1895-01-15,1945,chemistry,male,FI
+199,204,James B. Sumner,1887-11-19,1946,chemistry,male,US
+200,205,John H. Northrop,1891-07-05,1946,chemistry,male,US
+201,206,Wendell M. Stanley,1904-08-16,1946,chemistry,male,US
+202,207,Sir Robert Robinson,1886-09-13,1947,chemistry,male,GB
+203,208,Arne Tiselius,1902-08-10,1948,chemistry,male,SE
+204,209,William F. Giauque,1895-05-12,1949,chemistry,male,CA
+205,210,Otto Diels,1876-01-23,1950,chemistry,male,DE
+206,211,Kurt Alder,1902-07-10,1950,chemistry,male,PL
+207,212,Edwin M. McMillan,1907-09-18,1951,chemistry,male,US
+208,213,Glenn T. Seaborg,1912-04-19,1951,chemistry,male,US
+209,214,Archer J.P. Martin,1910-03-01,1952,chemistry,male,GB
+210,215,Richard L.M. Synge,1914-10-28,1952,chemistry,male,GB
+211,216,Hermann Staudinger,1881-03-23,1953,chemistry,male,DE
+212,217,Linus Pauling,1901-02-28,1954;1962,chemistry;peace,male,US
+213,218,Vincent du Vigneaud,1901-05-18,1955,chemistry,male,US
+214,219,Sir Cyril Hinshelwood,1897-05-19,1956,chemistry,male,GB
+215,220,Nikolay Semenov,1896-04-03,1956,chemistry,male,RU
+216,221,Lord Todd,1907-10-02,1957,chemistry,male,GB
+217,222,Frederick Sanger,1918-08-13,1980;1958,chemistry,male,GB
+218,223,Jaroslav Heyrovsky,1890-12-20,1959,chemistry,male,CZ
+219,224,Willard F. Libby,1908-12-17,1960,chemistry,male,US
+220,225,Melvin Calvin,1911-04-08,1961,chemistry,male,US
+221,226,Max F. Perutz,1914-05-19,1962,chemistry,male,AT
+222,227,John C. Kendrew,1917-03-24,1962,chemistry,male,GB
+223,228,Karl Ziegler,1898-11-26,1963,chemistry,male,DE
+224,229,Giulio Natta,1903-02-26,1963,chemistry,male,IT
+225,230,Dorothy Crowfoot Hodgkin,1910-05-12,1964,chemistry,female,EG
+226,231,Robert B. Woodward,1917-04-10,1965,chemistry,male,US
+227,232,Robert S. Mulliken,1896-06-07,1966,chemistry,male,US
+228,233,Manfred Eigen,1927-05-09,1967,chemistry,male,DE
+229,234,Ronald G.W. Norrish,1897-11-09,1967,chemistry,male,GB
+230,235,George Porter,1920-12-06,1967,chemistry,male,GB
+231,236,Lars Onsager,1903-11-27,1968,chemistry,male,NO
+232,237,Derek Barton,1918-09-08,1969,chemistry,male,GB
+233,238,Odd Hassel,1897-05-17,1969,chemistry,male,NO
+234,239,Luis Leloir,1906-09-06,1970,chemistry,male,FR
+235,240,Gerhard Herzberg,1904-12-25,1971,chemistry,male,DE
+236,241,Christian Anfinsen,1916-03-26,1972,chemistry,male,US
+237,242,Stanford Moore,1913-09-04,1972,chemistry,male,US
+238,243,William H. Stein,1911-06-25,1972,chemistry,male,US
+239,244,Ernst Otto Fischer,1918-11-10,1973,chemistry,male,DE
+240,245,Geoffrey Wilkinson,1921-07-14,1973,chemistry,male,GB
+241,246,Paul J. Flory,1910-06-19,1974,chemistry,male,US
+242,247,John Cornforth,1917-09-07,1975,chemistry,male,AU
+243,248,Vladimir Prelog,1906-07-23,1975,chemistry,male,BA
+244,249,William Lipscomb,1919-12-09,1976,chemistry,male,US
+245,250,Ilya Prigogine,1917-01-25,1977,chemistry,male,RU
+246,251,Peter Mitchell,1920-09-29,1978,chemistry,male,GB
+247,252,Herbert C. Brown,1912-05-22,1979,chemistry,male,GB
+248,253,Georg Wittig,1897-06-16,1979,chemistry,male,DE
+249,254,Paul Berg,1926-06-30,1980,chemistry,male,US
+250,255,Walter Gilbert,1932-03-21,1980,chemistry,male,US
+251,257,Kenichi Fukui,1918-10-04,1981,chemistry,male,JP
+252,258,Roald Hoffmann,1937-07-18,1981,chemistry,male,UA
+253,259,Aaron Klug,1926-08-11,1982,chemistry,male,LT
+254,260,Henry Taube,1915-11-30,1983,chemistry,male,CA
+255,261,Bruce Merrifield,1921-07-15,1984,chemistry,male,US
+256,262,Herbert A. Hauptman,1917-02-14,1985,chemistry,male,US
+257,263,Jerome Karle,1918-06-18,1985,chemistry,male,US
+258,264,Dudley R. Herschbach,1932-06-18,1986,chemistry,male,US
+259,265,Yuan T. Lee,1936-11-19,1986,chemistry,male,TW
+260,266,John C. Polanyi,1929-01-23,1986,chemistry,male,DE
+261,267,Donald J. Cram,1919-04-22,1987,chemistry,male,US
+262,268,Jean-Marie Lehn,1939-09-30,1987,chemistry,male,FR
+263,269,Charles J. Pedersen,1904-10-03,1987,chemistry,male,KR
+264,270,Johann Deisenhofer,1943-09-30,1988,chemistry,male,DE
+265,271,Robert Huber,1937-02-20,1988,chemistry,male,DE
+266,272,Hartmut Michel,1948-07-18,1988,chemistry,male,DE
+267,273,Sidney Altman,1939-05-07,1989,chemistry,male,CA
+268,274,Thomas R. Cech,1947-12-08,1989,chemistry,male,US
+269,275,Elias James Corey,1928-07-12,1990,chemistry,male,US
+270,276,Richard R. Ernst,1933-08-14,1991,chemistry,male,CH
+271,277,Rudolph A. Marcus,1923-07-21,1992,chemistry,male,CA
+272,278,Kary B. Mullis,1944-12-28,1993,chemistry,male,US
+273,279,Michael Smith,1932-04-26,1993,chemistry,male,GB
+274,280,George A. Olah,1927-05-22,1994,chemistry,male,HU
+275,281,Paul J. Crutzen,1933-12-03,1995,chemistry,male,NL
+276,282,Mario J. Molina,1943-03-19,1995,chemistry,male,MX
+277,283,F. Sherwood Rowland,1927-06-28,1995,chemistry,male,US
+278,284,Robert F. Curl Jr.,1933-08-23,1996,chemistry,male,US
+279,285,Sir Harold Kroto,1939-10-07,1996,chemistry,male,GB
+280,286,Richard E. Smalley,1943-06-06,1996,chemistry,male,US
+281,287,Paul D. Boyer,1918-07-31,1997,chemistry,male,US
+282,288,John E. Walker,1941-01-07,1997,chemistry,male,GB
+283,289,Jens C. Skou,1918-10-08,1997,chemistry,male,DK
+284,290,Walter Kohn,1923-03-09,1998,chemistry,male,AT
+285,291,John Pople,1925-10-31,1998,chemistry,male,GB
+286,292,Ahmed Zewail,1946-02-26,1999,chemistry,male,EG
+287,293,Emil von Behring,1854-03-15,1901,medicine,male,PL
+288,294,Ronald Ross,1857-05-13,1902,medicine,male,IN
+289,295,Niels Ryberg Finsen,1860-12-15,1903,medicine,male,DK
+290,296,Ivan Pavlov,1849-09-14,1904,medicine,male,RU
+291,297,Robert Koch,1843-12-11,1905,medicine,male,DE
+292,298,Camillo Golgi,1843-07-07,1906,medicine,male,IT
+293,299,Santiago Ramón y Cajal,1852-05-01,1906,medicine,male,ES
+294,300,Alphonse Laveran,1845-06-18,1907,medicine,male,FR
+295,301,Ilya Mechnikov,1845-05-15,1908,medicine,male,UA
+296,302,Paul Ehrlich,1854-03-14,1908,medicine,male,PL
+297,303,Theodor Kocher,1841-08-25,1909,medicine,male,CH
+298,304,Albrecht Kossel,1853-09-16,1910,medicine,male,DE
+299,305,Allvar Gullstrand,1862-06-05,1911,medicine,male,SE
+300,306,Alexis Carrel,1873-06-28,1912,medicine,male,FR
+301,307,Charles Richet,1850-08-26,1913,medicine,male,FR
+302,308,Robert Bárány,1876-04-22,1914,medicine,male,AT
+303,309,Jules Bordet,1870-06-13,1919,medicine,male,BE
+304,310,August Krogh,1874-11-15,1920,medicine,male,DK
+305,311,Archibald V. Hill,1886-09-26,1922,medicine,male,GB
+306,312,Otto Meyerhof,1884-04-12,1922,medicine,male,DE
+307,313,Frederick G. Banting,1891-11-14,1923,medicine,male,CA
+308,314,John Macleod,1876-09-06,1923,medicine,male,GB
+309,315,Willem Einthoven,1860-05-21,1924,medicine,male,ID
+310,316,Johannes Fibiger,1867-04-23,1926,medicine,male,DK
+311,317,Julius Wagner-Jauregg,1857-03-07,1927,medicine,male,AT
+312,318,Charles Nicolle,1866-09-21,1928,medicine,male,FR
+313,319,Christiaan Eijkman,1858-08-11,1929,medicine,male,NL
+314,320,Sir Frederick Hopkins,1861-06-20,1929,medicine,male,GB
+315,321,Karl Landsteiner,1868-06-14,1930,medicine,male,AT
+316,322,Otto Warburg,1883-10-08,1931,medicine,male,DE
+317,323,Sir Charles Sherrington,1857-11-27,1932,medicine,male,GB
+318,324,Edgar Adrian,1889-11-30,1932,medicine,male,GB
+319,325,Thomas H. Morgan,1866-09-25,1933,medicine,male,US
+320,326,George H. Whipple,1878-08-28,1934,medicine,male,US
+321,327,George R. Minot,1885-12-02,1934,medicine,male,US
+322,328,William P. Murphy,1892-02-06,1934,medicine,male,US
+323,329,Hans Spemann,1869-06-27,1935,medicine,male,DE
+324,330,Sir Henry Dale,1875-06-09,1936,medicine,male,GB
+325,331,Otto Loewi,1873-06-03,1936,medicine,male,DE
+326,332,Albert Szent-Györgyi,1893-09-16,1937,medicine,male,HU
+327,333,Corneille Heymans,1892-03-28,1938,medicine,male,BE
+328,334,Gerhard Domagk,1895-10-30,1939,medicine,male,PL
+329,335,Henrik Dam,1895-02-21,1943,medicine,male,DK
+330,336,Edward A. Doisy,1893-11-13,1943,medicine,male,US
+331,337,Joseph Erlanger,1874-01-05,1944,medicine,male,US
+332,338,Herbert S. Gasser,1888-07-05,1944,medicine,male,US
+333,339,Sir Alexander Fleming,1881-08-06,1945,medicine,male,GB
+334,340,Ernst B. Chain,1906-06-19,1945,medicine,male,DE
+335,341,Sir Howard Florey,1898-09-24,1945,medicine,male,AU
+336,342,Hermann J. Muller,1890-12-21,1946,medicine,male,US
+337,343,Carl Cori,1896-12-05,1947,medicine,male,CZ
+338,344,Gerty Cori,1896-08-15,1947,medicine,female,CZ
+339,345,Bernardo Houssay,1887-04-10,1947,medicine,male,AR
+340,346,Paul Müller,1899-01-12,1948,medicine,male,CH
+341,347,Walter Hess,1881-03-17,1949,medicine,male,CH
+342,348,Egas Moniz,1874-11-29,1949,medicine,male,PT
+343,349,Edward C. Kendall,1886-03-08,1950,medicine,male,US
+344,350,Tadeus Reichstein,1897-07-20,1950,medicine,male,PL
+345,351,Philip S. Hench,1896-02-28,1950,medicine,male,US
+346,352,Max Theiler,1899-01-30,1951,medicine,male,ZA
+347,353,Selman A. Waksman,1888-07-22,1952,medicine,male,UA
+348,354,Hans Krebs,1900-08-25,1953,medicine,male,DE
+349,355,Fritz Lipmann,1899-06-12,1953,medicine,male,RU
+350,356,John F. Enders,1897-02-10,1954,medicine,male,US
+351,357,Thomas H. Weller,1915-06-15,1954,medicine,male,US
+352,358,Frederick C. Robbins,1916-08-25,1954,medicine,male,US
+353,359,Hugo Theorell,1903-07-06,1955,medicine,male,SE
+354,360,André F. Cournand,1895-09-24,1956,medicine,male,FR
+355,361,Werner Forssmann,1904-08-29,1956,medicine,male,DE
+356,362,Dickinson W. Richards,1895-10-30,1956,medicine,male,US
+357,363,Daniel Bovet,1907-03-23,1957,medicine,male,CH
+358,364,George Beadle,1903-10-22,1958,medicine,male,US
+359,365,Edward Tatum,1909-12-14,1958,medicine,male,US
+360,366,Joshua Lederberg,1925-05-23,1958,medicine,male,US
+361,367,Severo Ochoa,1905-09-24,1959,medicine,male,ES
+362,368,Arthur Kornberg,1918-03-03,1959,medicine,male,US
+363,369,Sir Frank Macfarlane Burnet,1899-09-03,1960,medicine,male,AU
+364,370,Peter Medawar,1915-02-28,1960,medicine,male,BR
+365,371,Georg von Békésy,1899-06-03,1961,medicine,male,HU
+366,372,Francis Crick,1916-06-08,1962,medicine,male,GB
+367,373,James Watson,1928-04-06,1962,medicine,male,US
+368,374,Maurice Wilkins,1916-12-15,1962,medicine,male,NZ
+369,375,Sir John Eccles,1903-01-27,1963,medicine,male,AU
+370,376,Alan Hodgkin,1914-02-05,1963,medicine,male,GB
+371,377,Andrew Huxley,1917-11-22,1963,medicine,male,GB
+372,378,Konrad Bloch,1912-01-21,1964,medicine,male,PL
+373,379,Feodor Lynen,1911-04-06,1964,medicine,male,DE
+374,380,François Jacob,1920-06-17,1965,medicine,male,FR
+375,381,André Lwoff,1902-05-08,1965,medicine,male,FR
+376,382,Jacques Monod,1910-02-09,1965,medicine,male,FR
+377,383,Peyton Rous,1879-10-05,1966,medicine,male,US
+378,384,Charles B. Huggins,1901-09-22,1966,medicine,male,CA
+379,385,Ragnar Granit,1900-10-30,1967,medicine,male,FI
+380,386,Keffer Hartline,1903-12-22,1967,medicine,male,US
+381,387,George Wald,1906-11-18,1967,medicine,male,US
+382,388,Robert W. Holley,1922-01-28,1968,medicine,male,US
+383,389,H. Gobind Khorana,1922-01-09,1968,medicine,male,IN
+384,390,Marshall W. Nirenberg,1927-04-10,1968,medicine,male,US
+385,391,Max Delbrück,1906-09-04,1969,medicine,male,DE
+386,392,Alfred D. Hershey,1908-12-04,1969,medicine,male,US
+387,393,Salvador E. Luria,1912-08-13,1969,medicine,male,IT
+388,394,Sir Bernard Katz,1911-03-26,1970,medicine,male,DE
+389,395,Ulf von Euler,1905-02-07,1970,medicine,male,SE
+390,396,Julius Axelrod,1912-05-30,1970,medicine,male,US
+391,397,"Earl W. Sutherland, Jr.",1915-11-19,1971,medicine,male,US
+392,398,Gerald M. Edelman,1929-07-01,1972,medicine,male,US
+393,399,Rodney R. Porter,1917-10-08,1972,medicine,male,GB
+394,400,Karl von Frisch,1886-11-20,1973,medicine,male,AT
+395,401,Konrad Lorenz,1903-11-07,1973,medicine,male,AT
+396,402,Nikolaas Tinbergen,1907-04-15,1973,medicine,male,NL
+397,403,Albert Claude,1898-08-24,1974,medicine,male,BE
+398,404,Christian de Duve,1917-10-02,1974,medicine,male,GB
+399,405,George E. Palade,1912-11-19,1974,medicine,male,RO
+400,406,David Baltimore,1938-03-07,1975,medicine,male,US
+401,407,Renato Dulbecco,1914-02-22,1975,medicine,male,IT
+402,408,Howard M. Temin,1934-12-10,1975,medicine,male,US
+403,409,Baruch S. Blumberg,1925-07-28,1976,medicine,male,US
+404,410,D. Carleton Gajdusek,1923-09-09,1976,medicine,male,US
+405,411,Roger Guillemin,1924-01-11,1977,medicine,male,FR
+406,412,Andrew V. Schally,1926-11-30,1977,medicine,male,LT
+407,413,Rosalyn Yalow,1921-07-19,1977,medicine,female,US
+408,414,Werner Arber,1929-06-03,1978,medicine,male,CH
+409,415,Daniel Nathans,1928-10-30,1978,medicine,male,US
+410,416,Hamilton O. Smith,1931-08-23,1978,medicine,male,US
+411,417,Allan M. Cormack,1924-02-23,1979,medicine,male,ZA
+412,418,Godfrey N. Hounsfield,1919-08-28,1979,medicine,male,GB
+413,419,Baruj Benacerraf,1920-10-29,1980,medicine,male,VE
+414,420,Jean Dausset,1916-10-19,1980,medicine,male,FR
+415,421,George D. Snell,1903-12-19,1980,medicine,male,US
+416,422,Roger W. Sperry,1913-08-20,1981,medicine,male,US
+417,423,David H. Hubel,1926-02-27,1981,medicine,male,CA
+418,424,Torsten N. Wiesel,1924-06-03,1981,medicine,male,SE
+419,425,Sune K. Bergström,1916-01-10,1982,medicine,male,SE
+420,426,Bengt I. Samuelsson,1934-05-21,1982,medicine,male,SE
+421,427,John R. Vane,1927-03-29,1982,medicine,male,GB
+422,428,Barbara McClintock,1902-06-16,1983,medicine,female,US
+423,429,Niels K. Jerne,1911-12-23,1984,medicine,male,GB
+424,430,Georges J.F. Köhler,1946-04-17,1984,medicine,male,DE
+425,431,César Milstein,1927-10-08,1984,medicine,male,AR
+426,432,Michael S. Brown,1941-04-13,1985,medicine,male,US
+427,433,Joseph L. Goldstein,1940-04-18,1985,medicine,male,US
+428,434,Stanley Cohen,1922-11-17,1986,medicine,male,US
+429,435,Rita Levi-Montalcini,1909-04-22,1986,medicine,female,IT
+430,436,Susumu Tonegawa,1939-09-05,1987,medicine,male,JP
+431,437,Sir James W. Black,1924-06-14,1988,medicine,male,GB
+432,438,Gertrude B. Elion,1918-01-23,1988,medicine,female,US
+433,439,George H. Hitchings,1905-04-18,1988,medicine,male,US
+434,440,J. Michael Bishop,1936-02-22,1989,medicine,male,US
+435,441,Harold E. Varmus,1939-12-18,1989,medicine,male,US
+436,442,Joseph E. Murray,1919-04-01,1990,medicine,male,US
+437,443,E. Donnall Thomas,1920-03-15,1990,medicine,male,US
+438,444,Erwin Neher,1944-03-20,1991,medicine,male,DE
+439,445,Bert Sakmann,1942-06-12,1991,medicine,male,DE
+440,446,Edmond H. Fischer,1920-04-06,1992,medicine,male,CN
+441,447,Edwin G. Krebs,1918-06-06,1992,medicine,male,US
+442,448,Richard J. Roberts,1943-09-06,1993,medicine,male,GB
+443,449,Phillip A. Sharp,1944-06-06,1993,medicine,male,US
+444,450,Alfred G. Gilman,1941-07-01,1994,medicine,male,US
+445,451,Martin Rodbell,1925-12-01,1994,medicine,male,US
+446,452,Edward B. Lewis,1918-05-20,1995,medicine,male,US
+447,453,Christiane Nüsslein-Volhard,1942-10-20,1995,medicine,female,DE
+448,454,Eric F. Wieschaus,1947-06-08,1995,medicine,male,US
+449,455,Peter C. Doherty,1940-10-15,1996,medicine,male,AU
+450,456,Rolf M. Zinkernagel,1944-01-06,1996,medicine,male,CH
+451,457,Stanley B. Prusiner,1942-05-28,1997,medicine,male,US
+452,458,Robert F. Furchgott,1916-06-04,1998,medicine,male,US
+453,459,Louis J. Ignarro,1941-05-31,1998,medicine,male,US
+454,460,Ferid Murad,1936-09-14,1998,medicine,male,US
+455,461,Günter Blobel,1936-05-21,1999,medicine,male,PL
+456,462,Henry Dunant,1828-05-08,1901,peace,male,CH
+457,463,Frédéric Passy,1822-05-20,1901,peace,male,FR
+458,464,Élie Ducommun,1833-02-19,1902,peace,male,CH
+459,465,Albert Gobat,1843-05-21,1902,peace,male,CH
+460,466,Randal Cremer,1828-03-18,1903,peace,male,GB
+461,467,Institute of International Law ,1873-00-00,1904,peace,org,
+462,468,Bertha von Suttner,1843-06-09,1905,peace,female,CZ
+463,470,Theodore Roosevelt,1858-10-27,1906,peace,male,US
+464,471,Ernesto Teodoro Moneta,1833-09-20,1907,peace,male,IT
+465,472,Louis Renault,1843-05-21,1907,peace,male,FR
+466,473,Klas Pontus Arnoldson,1844-10-27,1908,peace,male,SE
+467,474,Fredrik Bajer,1837-04-21,1908,peace,male,DK
+468,475,Auguste Beernaert,1829-07-26,1909,peace,male,BE
+469,476,Paul Henri d'Estournelles de Constant,1852-11-22,1909,peace,male,FR
+470,477,Permanent International Peace Bureau ,1891-00-00,1910,peace,org,
+471,478,Tobias Asser,1838-04-28,1911,peace,male,NL
+472,479,Alfred Fried,1864-11-11,1911,peace,male,AT
+473,480,Elihu Root,1845-02-15,1912,peace,male,US
+474,481,Henri La Fontaine,1854-04-22,1913,peace,male,BE
+475,482,International Committee of the Red Cross ,1863-00-00,1944;1963;1917,peace,org,
+476,483,Woodrow Wilson,1856-12-28,1919,peace,male,US
+477,484,Léon Bourgeois,1851-05-21,1920,peace,male,FR
+478,485,Hjalmar Branting,1860-11-23,1921,peace,male,SE
+479,486,Christian Lange,1869-09-17,1921,peace,male,NO
+480,487,Fridtjof Nansen,1861-10-10,1922,peace,male,NO
+481,488,Sir Austen Chamberlain,1863-10-16,1925,peace,male,GB
+482,489,Charles G. Dawes,1865-08-27,1925,peace,male,US
+483,490,Aristide Briand,1862-03-28,1926,peace,male,FR
+484,491,Gustav Stresemann,1878-05-10,1926,peace,male,DE
+485,492,Ferdinand Buisson,1841-12-20,1927,peace,male,FR
+486,493,Ludwig Quidde,1858-03-23,1927,peace,male,DE
+487,494,Frank B. Kellogg,1856-12-22,1929,peace,male,US
+488,495,Nathan Söderblom,1866-01-15,1930,peace,male,SE
+489,496,Jane Addams,1860-09-06,1931,peace,female,US
+490,497,Nicholas Murray Butler,1862-04-02,1931,peace,male,US
+491,498,Sir Norman Angell,1872-12-26,1933,peace,male,GB
+492,499,Arthur Henderson,1863-09-13,1934,peace,male,GB
+493,500,Carl von Ossietzky,1889-10-03,1935,peace,male,DE
+494,501,Carlos Saavedra Lamas,1878-11-01,1936,peace,male,AR
+495,502,Robert Cecil,1864-09-14,1937,peace,male,GB
+496,503,Nansen International Office for Refugees ,1921-00-00,1938,peace,org,
+497,505,Cordell Hull,1871-10-02,1945,peace,male,US
+498,506,Emily Greene Balch,1867-01-08,1946,peace,female,US
+499,507,John R. Mott,1865-05-25,1946,peace,male,US
+500,508,Friends Service Council ,1647-00-00,1947,peace,org,
+501,509,American Friends Service Committee ,1917-00-00,1947,peace,org,
+502,510,John Boyd Orr,1880-09-23,1949,peace,male,GB
+503,511,Ralph Bunche,1904-08-07,1950,peace,male,US
+504,512,Léon Jouhaux,1879-07-01,1951,peace,male,FR
+505,513,Albert Schweitzer,1875-01-14,1952,peace,male,FR
+506,514,George C. Marshall,1880-12-31,1953,peace,male,US
+507,515,Office of the United Nations High Commissioner for Refugees ,1950-12-14,1981;1954,peace,org,
+508,516,Lester Bowles Pearson,1897-04-23,1957,peace,male,CA
+509,517,Georges Pire,1910-02-10,1958,peace,male,BE
+510,518,Philip Noel-Baker,1889-11-01,1959,peace,male,GB
+511,519,Albert Luthuli,1898-00-00,1960,peace,male,ZW
+512,520,Dag Hammarskjöld,1905-07-29,1961,peace,male,SE
+513,523,League of Red Cross Societies ,1919-00-00,1963,peace,org,
+514,524,Martin Luther King Jr.,1929-01-15,1964,peace,male,US
+515,525,United Nations Children's Fund ,1946-00-00,1965,peace,org,
+516,526,René Cassin,1887-10-05,1968,peace,male,FR
+517,527,International Labour Organization ,1919-00-00,1969,peace,org,
+518,528,Norman Borlaug,1914-03-25,1970,peace,male,US
+519,529,Willy Brandt,1913-12-18,1971,peace,male,DE
+520,530,Henry Kissinger,1923-05-27,1973,peace,male,DE
+521,531,Le Duc Tho ,1911-10-14,1973,peace,male,VN
+522,532,Seán MacBride,1904-01-26,1974,peace,male,FR
+523,533,Eisaku Sato,1901-03-27,1974,peace,male,JP
+524,534,Andrei Sakharov,1921-05-21,1975,peace,male,RU
+525,535,Betty Williams,1943-05-22,1976,peace,female,GB
+526,536,Mairead Corrigan,1944-01-27,1976,peace,female,GB
+527,537,Amnesty International ,1961-00-00,1977,peace,org,
+528,538,Anwar al-Sadat,1918-12-25,1978,peace,male,EG
+529,539,Menachem Begin,1913-08-16,1978,peace,male,BY
+530,540,Anjezë Gonxhe Bojaxhiu,1910-08-26,1979,peace,female,MK
+531,541,Adolfo Pérez Esquivel,1931-11-26,1980,peace,male,AR
+532,543,Alva Myrdal,1902-01-31,1982,peace,female,SE
+533,544,Alfonso García Robles,1911-03-20,1982,peace,male,MX
+534,545,Lech Walesa,1943-09-29,1983,peace,male,PL
+535,546,Desmond Tutu,1931-10-07,1984,peace,male,ZA
+536,547,International Physicians for the Prevention of Nuclear War ,1980-00-00,1985,peace,org,
+537,548,Elie Wiesel,1928-09-30,1986,peace,male,RO
+538,549,Oscar Arias Sánchez,1940-09-13,1987,peace,male,CR
+539,550,United Nations Peacekeeping Forces ,1948-00-00,1988,peace,org,
+540,551,Lhamo Thondup,1935-07-06,1989,peace,male,CN
+541,552,Mikhail Gorbachev,1931-03-02,1990,peace,male,RU
+542,553,Aung San Suu Kyi ,1945-06-19,1991,peace,female,MM
+543,554,Rigoberta Menchú Tum,1959-01-09,1992,peace,female,GT
+544,555,Nelson Mandela,1918-07-18,1993,peace,male,ZA
+545,556,F.W. de Klerk,1936-03-18,1993,peace,male,ZA
+546,557,Yasser Arafat,1929-08-24,1994,peace,male,EG
+547,558,Shimon Peres,1923-08-16,1994,peace,male,BY
+548,559,Yitzhak Rabin,1922-03-01,1994,peace,male,IL
+549,560,Joseph Rotblat,1908-11-04,1995,peace,male,PL
+550,561,Pugwash Conferences on Science and World Affairs ,1957-00-00,1995,peace,org,
+551,562,Carlos Filipe Ximenes Belo,1948-02-03,1996,peace,male,TL
+552,563,José Ramos-Horta,1949-12-26,1996,peace,male,TL
+553,564,International Campaign to Ban Landmines ,1992-00-00,1997,peace,org,
+554,565,Jody Williams,1950-10-09,1997,peace,female,US
+555,566,John Hume,1937-01-18,1998,peace,male,GB
+556,567,David Trimble,1944-10-15,1998,peace,male,GB
+557,568,Médecins Sans Frontières ,1971-00-00,1999,peace,org,
+558,569,Sully Prudhomme,1839-03-16,1901,literature,male,FR
+559,571,Theodor Mommsen,1817-11-30,1902,literature,male,DE
+560,572,Bjørnstjerne Bjørnson,1832-12-08,1903,literature,male,NO
+561,573,Frédéric Mistral,1830-09-08,1904,literature,male,FR
+562,574,José Echegaray,1832-04-19,1904,literature,male,ES
+563,575,Henryk Sienkiewicz,1846-05-05,1905,literature,male,PL
+564,576,Giosuè Carducci,1835-07-27,1906,literature,male,IT
+565,577,Rudyard Kipling,1865-12-30,1907,literature,male,IN
+566,578,Rudolf Eucken,1846-01-05,1908,literature,male,DE
+567,579,Selma Lagerlöf,1858-11-20,1909,literature,female,SE
+568,580,Paul Heyse,1830-03-15,1910,literature,male,DE
+569,581,Maurice Maeterlinck,1862-08-29,1911,literature,male,BE
+570,582,Gerhart Hauptmann,1862-11-15,1912,literature,male,PL
+571,583,Rabindranath Tagore,1861-05-07,1913,literature,male,IN
+572,584,Romain Rolland,1866-01-29,1915,literature,male,FR
+573,585,Verner von Heidenstam,1859-07-06,1916,literature,male,SE
+574,586,Karl Gjellerup,1857-06-02,1917,literature,male,DK
+575,587,Henrik Pontoppidan,1857-07-24,1917,literature,male,DK
+576,588,Carl Spitteler,1845-04-24,1919,literature,male,CH
+577,589,Knut Hamsun,1859-08-04,1920,literature,male,NO
+578,590,Anatole France,1844-04-16,1921,literature,male,FR
+579,592,Jacinto Benavente,1866-08-12,1922,literature,male,ES
+580,593,William Butler Yeats,1865-06-13,1923,literature,male,IE
+581,594,Wladyslaw Reymont,1867-05-07,1924,literature,male,PL
+582,596,George Bernard Shaw,1856-07-26,1925,literature,male,IE
+583,597,Grazia Deledda,1871-09-27,1926,literature,female,IT
+584,600,Henri Bergson,1859-10-18,1927,literature,male,FR
+585,601,Sigrid Undset,1882-05-20,1928,literature,female,DK
+586,602,Thomas Mann,1875-06-06,1929,literature,male,DE
+587,603,Sinclair Lewis,1885-02-07,1930,literature,male,US
+588,604,Erik Axel Karlfeldt,1864-07-20,1931,literature,male,SE
+589,605,John Galsworthy,1867-08-14,1932,literature,male,GB
+590,606,Ivan Bunin,1870-10-22,1933,literature,male,RU
+591,607,Luigi Pirandello,1867-06-28,1934,literature,male,IT
+592,608,Eugene O'Neill,1888-10-16,1936,literature,male,US
+593,609,Roger Martin du Gard,1881-03-23,1937,literature,male,FR
+594,610,Pearl Buck,1892-06-26,1938,literature,female,US
+595,613,Frans Eemil Sillanpää,1888-09-16,1939,literature,male,FI
+596,614,Johannes V. Jensen,1873-01-20,1944,literature,male,DK
+597,615,Gabriela Mistral,1889-04-07,1945,literature,female,CL
+598,617,Hermann Hesse,1877-07-02,1946,literature,male,DE
+599,618,André Gide,1869-11-22,1947,literature,male,FR
+600,619,T.S. Eliot,1888-09-26,1948,literature,male,US
+601,620,William Faulkner,1897-09-25,1949,literature,male,US
+602,621,Bertrand Russell,1872-05-18,1950,literature,male,GB
+603,622,Pär Lagerkvist,1891-05-23,1951,literature,male,SE
+604,623,François Mauriac,1885-10-11,1952,literature,male,FR
+605,624,Winston Churchill,1874-11-30,1953,literature,male,GB
+606,625,Ernest Hemingway,1899-07-21,1954,literature,male,US
+607,626,Halldór Laxness,1902-04-23,1955,literature,male,IS
+608,627,Juan Ramón Jiménez,1881-12-24,1956,literature,male,ES
+609,628,Albert Camus,1913-11-07,1957,literature,male,DZ
+610,629,Boris Pasternak,1890-02-10,1958,literature,male,RU
+611,630,Salvatore Quasimodo,1901-08-20,1959,literature,male,IT
+612,631,Saint-John Perse,1887-05-31,1960,literature,male,GP
+613,633,Ivo Andric,1892-10-10,1961,literature,male,BA
+614,634,John Steinbeck,1902-02-27,1962,literature,male,US
+615,635,Giorgos Seferis,1900-03-13,1963,literature,male,TR
+616,637,Jean-Paul Sartre,1905-06-21,1964,literature,male,FR
+617,638,Mikhail Sholokhov,1905-05-24,1965,literature,male,RU
+618,639,Shmuel Agnon,1888-07-17,1966,literature,male,UA
+619,640,Nelly Sachs,1891-12-10,1966,literature,female,DE
+620,641,Miguel Angel Asturias,1899-10-19,1967,literature,male,GT
+621,642,Yasunari Kawabata,1899-06-11,1968,literature,male,JP
+622,643,Samuel Beckett,1906-04-13,1969,literature,male,IE
+623,644,Alexandr Solzhenitsyn,1918-12-11,1970,literature,male,RU
+624,645,Pablo Neruda,1904-07-12,1971,literature,male,CL
+625,647,Heinrich Böll,1917-12-21,1972,literature,male,DE
+626,648,Patrick White,1912-05-28,1973,literature,male,GB
+627,649,Eyvind Johnson,1900-07-29,1974,literature,male,SE
+628,650,Harry Martinson,1904-05-06,1974,literature,male,SE
+629,651,Eugenio Montale,1896-10-12,1975,literature,male,IT
+630,652,Saul Bellow,1915-06-10,1976,literature,male,CA
+631,653,Vicente Aleixandre,1898-04-26,1977,literature,male,ES
+632,654,Isaac Bashevis Singer,1904-07-14,1978,literature,male,PL
+633,655,Odysseus Elytis,1911-11-02,1979,literature,male,GR
+634,657,Czeslaw Milosz,1911-06-30,1980,literature,male,LT
+635,658,Elias Canetti,1905-07-25,1981,literature,male,BG
+636,659,Gabriel García Márquez,1927-03-06,1982,literature,male,CO
+637,660,William Golding,1911-09-19,1983,literature,male,GB
+638,661,Jaroslav Seifert,1901-09-23,1984,literature,male,CZ
+639,662,Claude Simon,1913-10-10,1985,literature,male,MG
+640,663,Wole Soyinka,1934-07-13,1986,literature,male,NG
+641,664,Joseph Brodsky,1940-05-24,1987,literature,male,RU
+642,665,Naguib Mahfouz,1911-12-11,1988,literature,male,EG
+643,666,Camilo José Cela,1916-05-11,1989,literature,male,ES
+644,667,Octavio Paz,1914-03-31,1990,literature,male,MX
+645,668,Nadine Gordimer,1923-11-20,1991,literature,female,ZA
+646,669,Derek Walcott,1930-01-23,1992,literature,male,LC
+647,670,Toni Morrison,1931-02-18,1993,literature,female,US
+648,671,Kenzaburo Oe,1935-01-31,1994,literature,male,JP
+649,672,Seamus Heaney,1939-04-13,1995,literature,male,GB
+650,673,Wislawa Szymborska,1923-07-02,1996,literature,female,PL
+651,674,Dario Fo,1926-03-24,1997,literature,male,IT
+652,675,José Saramago,1922-11-16,1998,literature,male,PT
+653,676,Günter Grass,1927-10-16,1999,literature,male,PL
+654,677,Ragnar Frisch,1895-03-03,1969,economics,male,NO
+655,678,Jan Tinbergen,1903-04-12,1969,economics,male,NL
+656,679,Paul A. Samuelson,1915-05-15,1970,economics,male,US
+657,680,Simon Kuznets,1901-04-30,1971,economics,male,BY
+658,681,John R. Hicks,1904-04-08,1972,economics,male,GB
+659,682,Kenneth J. Arrow,1921-08-23,1972,economics,male,US
+660,683,Wassily Leontief,1906-08-05,1973,economics,male,RU
+661,684,Gunnar Myrdal,1898-12-06,1974,economics,male,SE
+662,685,Friedrich von Hayek,1899-05-08,1974,economics,male,AT
+663,686,Leonid Vitaliyevich Kantorovich,1912-01-19,1975,economics,male,RU
+664,687,Tjalling C. Koopmans,1910-08-28,1975,economics,male,NL
+665,688,Milton Friedman,1912-07-31,1976,economics,male,US
+666,689,Bertil Ohlin,1899-04-23,1977,economics,male,SE
+667,690,James E. Meade,1907-06-23,1977,economics,male,GB
+668,691,Herbert Simon,1916-06-15,1978,economics,male,US
+669,692,Theodore W. Schultz,1902-04-30,1979,economics,male,US
+670,693,Sir Arthur Lewis,1915-01-23,1979,economics,male,LC
+671,694,Lawrence R. Klein,1920-09-14,1980,economics,male,US
+672,695,James Tobin,1918-03-05,1981,economics,male,US
+673,696,George J. Stigler,1911-01-17,1982,economics,male,US
+674,697,Gerard Debreu,1921-07-04,1983,economics,male,FR
+675,698,Richard Stone,1913-08-30,1984,economics,male,GB
+676,699,Franco Modigliani,1918-06-18,1985,economics,male,IT
+677,700,James M. Buchanan Jr.,1919-10-03,1986,economics,male,US
+678,701,Robert M. Solow,1924-08-23,1987,economics,male,US
+679,702,Maurice Allais,1911-05-31,1988,economics,male,FR
+680,703,Trygve Haavelmo,1911-12-13,1989,economics,male,NO
+681,704,Harry M. Markowitz,1927-08-24,1990,economics,male,US
+682,705,Merton H. Miller,1923-05-16,1990,economics,male,US
+683,706,William F. Sharpe,1934-06-16,1990,economics,male,US
+684,707,Ronald H. Coase,1910-12-29,1991,economics,male,GB
+685,708,Gary Becker,1930-12-02,1992,economics,male,US
+686,709,Robert W. Fogel,1927-07-01,1993,economics,male,US
+687,710,Douglass C. North,1920-11-05,1993,economics,male,US
+688,711,John C. Harsanyi,1920-05-29,1994,economics,male,HU
+689,712,John F. Nash Jr.,1928-06-13,1994,economics,male,US
+690,713,Reinhard Selten,1930-10-05,1994,economics,male,PL
+691,714,Robert E. Lucas Jr.,1937-09-15,1995,economics,male,US
+692,715,James A. Mirrlees,1936-07-05,1996,economics,male,GB
+693,716,William Vickrey,1914-06-21,1996,economics,male,CA
+694,717,Robert C. Merton,1944-07-31,1997,economics,male,US
+695,718,Myron Scholes,1941-07-01,1997,economics,male,CA
+696,719,Amartya Sen,1933-11-03,1998,economics,male,IN
+697,720,Robert Mundell,1932-10-24,1999,economics,male,CA
+698,721,Il´ja M. Frank,1908-10-23,1958,physics,male,RU
+699,722,Arvid Carlsson,1923-01-25,2000,medicine,male,SE
+700,723,Paul Greengard,1925-12-11,2000,medicine,male,US
+701,724,Eric Kandel,1929-11-07,2000,medicine,male,AT
+702,725,Kim Dae-jung,1925-12-03,2000,peace,male,KR
+703,726,Zhores Alferov,1930-03-15,2000,physics,male,BY
+704,727,Herbert Kroemer,1928-08-25,2000,physics,male,DE
+705,728,Jack Kilby,1923-11-08,2000,physics,male,US
+706,729,Alan Heeger,1936-01-22,2000,chemistry,male,US
+707,730,Alan MacDiarmid,1927-04-14,2000,chemistry,male,NZ
+708,731,Hideki Shirakawa,1936-08-20,2000,chemistry,male,JP
+709,732,James J. Heckman,1944-04-19,2000,economics,male,US
+710,733,Daniel L. McFadden,1937-07-29,2000,economics,male,US
+711,734,Xingjian Gao,1940-01-04,2000,literature,male,CN
+712,735,Leland Hartwell,1939-10-30,2001,medicine,male,US
+713,736,Tim Hunt,1943-02-19,2001,medicine,male,GB
+714,737,Sir Paul Nurse,1949-01-25,2001,medicine,male,GB
+715,738,Eric Cornell,1961-12-19,2001,physics,male,US
+716,739,Wolfgang Ketterle,1957-10-21,2001,physics,male,DE
+717,740,Carl Wieman,1951-03-26,2001,physics,male,US
+718,741,William Knowles,1917-06-01,2001,chemistry,male,US
+719,742,Ryoji Noyori,1938-09-03,2001,chemistry,male,JP
+720,743,Barry Sharpless,1941-04-28,2001,chemistry,male,US
+721,744,George A. Akerlof,1940-06-17,2001,economics,male,US
+722,745,A. Michael Spence,1943-00-00,2001,economics,male,US
+723,746,Joseph E. Stiglitz,1943-02-09,2001,economics,male,US
+724,747,V. S. Naipaul,1932-08-17,2001,literature,male,TT
+725,748,United Nations ,1945-00-00,2001,peace,org,
+726,749,Kofi Annan,1938-04-08,2001,peace,male,GH
+727,750,Sydney Brenner,1927-01-13,2002,medicine,male,ZA
+728,751,H. Robert Horvitz,1947-05-08,2002,medicine,male,US
+729,752,John E. Sulston,1942-03-27,2002,medicine,male,GB
+730,753,Raymond Davis Jr.,1914-10-14,2002,physics,male,US
+731,754,Masatoshi Koshiba,1926-09-19,2002,physics,male,JP
+732,755,Riccardo Giacconi,1931-10-06,2002,physics,male,IT
+733,756,John B. Fenn,1917-06-15,2002,chemistry,male,US
+734,757,Koichi Tanaka,1959-08-03,2002,chemistry,male,JP
+735,758,Kurt Wüthrich,1938-10-04,2002,chemistry,male,CH
+736,759,Daniel Kahneman,1934-03-05,2002,economics,male,IL
+737,760,Vernon L. Smith,1927-01-01,2002,economics,male,US
+738,761,Imre Kertész,1929-11-09,2002,literature,male,HU
+739,762,Jimmy Carter,1924-10-01,2002,peace,male,US
+740,763,J. M. Coetzee,1940-02-09,2003,literature,male,ZA
+741,764,Paul C. Lauterbur,1929-05-06,2003,medicine,male,US
+742,765,Sir Peter Mansfield,1933-10-09,2003,medicine,male,GB
+743,766,Alexei Abrikosov,1928-06-25,2003,physics,male,RU
+744,767,Vitaly L. Ginzburg,1916-10-04,2003,physics,male,RU
+745,768,Anthony J. Leggett,1938-03-26,2003,physics,male,GB
+746,769,Peter Agre,1949-01-30,2003,chemistry,male,US
+747,770,Roderick MacKinnon,1956-02-19,2003,chemistry,male,US
+748,771,Robert F. Engle III,1942-11-10,2003,economics,male,US
+749,772,Clive W.J. Granger,1934-09-04,2003,economics,male,GB
+750,773,Shirin Ebadi,1947-06-21,2003,peace,female,IR
+751,774,Richard Axel,1946-07-02,2004,medicine,male,US
+752,775,Linda B. Buck,1947-01-29,2004,medicine,female,US
+753,776,David J. Gross,1941-02-19,2004,physics,male,US
+754,777,H. David Politzer,1949-08-31,2004,physics,male,US
+755,778,Frank Wilczek,1951-05-15,2004,physics,male,US
+756,779,Aaron Ciechanover,1947-10-01,2004,chemistry,male,IL
+757,780,Avram Hershko,1937-12-31,2004,chemistry,male,HU
+758,781,Irwin Rose,1926-07-16,2004,chemistry,male,US
+759,782,Elfriede Jelinek,1946-10-20,2004,literature,female,AT
+760,783,Wangari Maathai,1940-04-01,2004,peace,female,KE
+761,786,Finn E. Kydland,1943-12-01,2004,economics,male,NO
+762,787,Edward C. Prescott,1940-12-26,2004,economics,male,US
+763,789,Barry J. Marshall,1951-09-30,2005,medicine,male,AU
+764,790,J. Robin Warren,1937-06-11,2005,medicine,male,AU
+765,791,Roy J. Glauber,1925-09-01,2005,physics,male,US
+766,792,John L. Hall,1934-08-21,2005,physics,male,US
+767,793,Theodor W. Hänsch,1941-10-30,2005,physics,male,DE
+768,794,Yves Chauvin,1930-10-10,2005,chemistry,male,BE
+769,795,Robert H. Grubbs,1942-02-27,2005,chemistry,male,US
+770,796,Richard R. Schrock,1945-01-04,2005,chemistry,male,US
+771,797,International Atomic Energy Agency ,1957-00-00,2005,peace,org,
+772,798,Mohamed ElBaradei,1942-06-17,2005,peace,male,EG
+773,799,Robert J. Aumann,1930-06-08,2005,economics,male,DE
+774,800,Thomas C. Schelling,1921-04-14,2005,economics,male,US
+775,801,Harold Pinter,1930-10-10,2005,literature,male,GB
+776,802,Andrew Z. Fire,1959-04-27,2006,medicine,male,US
+777,803,Craig C. Mello,1960-10-19,2006,medicine,male,US
+778,804,John C. Mather,1946-08-07,2006,physics,male,US
+779,805,George F. Smoot,1945-02-20,2006,physics,male,US
+780,806,Roger D. Kornberg,1947-04-24,2006,chemistry,male,US
+781,807,Edmund S. Phelps,1933-07-26,2006,economics,male,US
+782,808,Orhan Pamuk,1952-06-07,2006,literature,male,TR
+783,809,Muhammad Yunus,1940-06-28,2006,peace,male,BD
+784,810,Grameen Bank ,1976-00-00,2006,peace,org,
+785,811,Mario R. Capecchi,1937-10-06,2007,medicine,male,IT
+786,812,Sir Martin J. Evans,1941-01-01,2007,medicine,male,GB
+787,813,Oliver Smithies,1925-06-23,2007,medicine,male,GB
+788,814,Albert Fert,1938-03-07,2007,physics,male,FR
+789,815,Peter Grünberg,1939-05-18,2007,physics,male,CZ
+790,816,Gerhard Ertl,1936-10-10,2007,chemistry,male,DE
+791,817,Doris Lessing,1919-10-22,2007,literature,female,IR
+792,818,Intergovernmental Panel on Climate Change ,1988-00-00,2007,peace,org,
+793,819,Al Gore,1948-03-31,2007,peace,male,US
+794,820,Leonid Hurwicz,1917-08-21,2007,economics,male,RU
+795,821,Eric S. Maskin,1950-12-12,2007,economics,male,US
+796,822,Roger B. Myerson,1951-03-29,2007,economics,male,US
+797,823,Harald zur Hausen,1936-03-11,2008,medicine,male,DE
+798,824,Françoise Barré-Sinoussi,1947-07-30,2008,medicine,female,FR
+799,825,Luc Montagnier,1932-08-18,2008,medicine,male,FR
+800,826,Yoichiro Nambu,1921-01-18,2008,physics,male,JP
+801,827,Makoto Kobayashi,1944-04-07,2008,physics,male,JP
+802,828,Toshihide Maskawa,1940-02-07,2008,physics,male,JP
+803,829,Osamu Shimomura,1928-08-27,2008,chemistry,male,JP
+804,830,Martin Chalfie,1947-01-15,2008,chemistry,male,US
+805,831,Roger Y. Tsien,1952-02-01,2008,chemistry,male,US
+806,832,Jean-Marie Gustave Le Clézio,1940-04-13,2008,literature,male,FR
+807,833,Martti Ahtisaari,1937-06-23,2008,peace,male,FI
+808,834,Paul Krugman,1953-02-28,2008,economics,male,US
+809,835,Elizabeth H. Blackburn,1948-11-26,2009,medicine,female,AU
+810,836,Carol W. Greider,1961-04-15,2009,medicine,female,US
+811,837,Jack W. Szostak,1952-11-09,2009,medicine,male,GB
+812,838,Charles K. Kao,1933-11-04,2009,physics,male,CN
+813,839,Willard S. Boyle,1924-08-19,2009,physics,male,CA
+814,840,George E. Smith,1930-05-10,2009,physics,male,US
+815,841,Venkatraman Ramakrishnan,1952-00-00,2009,chemistry,male,IN
+816,842,Thomas A. Steitz,1940-08-23,2009,chemistry,male,US
+817,843,Ada E. Yonath,1939-06-22,2009,chemistry,female,IL
+818,844,Herta Müller,1953-08-17,2009,literature,female,RO
+819,845,Barack Obama,1961-08-04,2009,peace,male,US
+820,846,Elinor Ostrom,1933-08-07,2009,economics,female,US
+821,847,Oliver E. Williamson,1932-09-27,2009,economics,male,US
+822,848,Robert G. Edwards,1925-09-27,2010,medicine,male,GB
+823,849,Andre Geim,1958-10-21,2010,physics,male,RU
+824,850,Konstantin Novoselov,1974-08-23,2010,physics,male,RU
+825,851,Richard F. Heck,1931-08-15,2010,chemistry,male,US
+826,852,Ei-ichi Negishi,1935-07-14,2010,chemistry,male,CN
+827,853,Akira Suzuki,1930-09-12,2010,chemistry,male,JP
+828,854,Mario Vargas Llosa,1936-03-28,2010,literature,male,PE
+829,855,Xiaobo Liu,1955-12-28,2010,peace,male,CN
+830,856,Peter A. Diamond,1940-04-29,2010,economics,male,US
+831,857,Dale T. Mortensen,1939-02-02,2010,economics,male,US
+832,858,Christopher A. Pissarides,1948-02-20,2010,economics,male,CY
+833,861,Bruce A. Beutler,1957-12-29,2011,medicine,male,US
+834,862,Jules A. Hoffmann,1941-08-02,2011,medicine,male,LU
+835,863,Ralph M. Steinman,1943-01-14,2011,medicine,male,CA
+836,864,Saul Perlmutter,1959-00-00,2011,physics,male,US
+837,865,Brian P. Schmidt,1967-02-24,2011,physics,male,US
+838,866,Adam G. Riess,1969-12-16,2011,physics,male,US
+839,867,Dan Shechtman,1941-01-24,2011,chemistry,male,IL
+840,868,Tomas Tranströmer,1931-04-15,2011,literature,male,SE
+841,869,Ellen Johnson Sirleaf,1938-10-29,2011,peace,female,LR
+842,870,Leymah Gbowee,1972-02-01,2011,peace,female,LR
+843,871,Tawakkol Karman,1979-02-07,2011,peace,female,YE
+844,872,Thomas J. Sargent,1943-07-19,2011,economics,male,US
+845,873,Christopher A. Sims,1942-10-21,2011,economics,male,US
+846,874,Sir John B. Gurdon,1933-10-02,2012,medicine,male,GB
+847,875,Shinya Yamanaka,1962-09-04,2012,medicine,male,JP
+848,876,Serge Haroche,1944-09-11,2012,physics,male,MA
+849,877,David J. Wineland,1944-02-24,2012,physics,male,US
+850,878,Robert J. Lefkowitz,1943-04-15,2012,chemistry,male,US
+851,879,Brian Kobilka,1955-05-30,2012,chemistry,male,US
+852,880,Mo Yan,1955-02-02,2012,literature,male,CN
+853,881,European Union ,1952-00-00,2012,peace,org,
+854,882,Alvin E. Roth,1951-12-18,2012,economics,male,US
+855,883,Lloyd S. Shapley,1923-06-02,2012,economics,male,US
+856,884,James E. Rothman,1950-11-03,2013,medicine,male,US
+857,885,Randy W. Schekman,1948-12-30,2013,medicine,male,US
+858,886,Thomas C. Südhof,1955-12-22,2013,medicine,male,DE
+859,887,François Englert,1932-11-06,2013,physics,male,BE
+860,888,Peter Higgs,1929-05-29,2013,physics,male,GB
+861,889,Martin Karplus,1930-03-15,2013,chemistry,male,AT
+862,890,Michael Levitt,1947-05-09,2013,chemistry,male,ZA
+863,891,Arieh Warshel,1940-11-20,2013,chemistry,male,IL
+864,892,Alice Munro,1931-07-10,2013,literature,female,CA
+865,893,Organisation for the Prohibition of Chemical Weapons ,1997-00-00,2013,peace,org,
+866,894,Eugene F. Fama,1939-02-14,2013,economics,male,US
+867,895,Lars Peter Hansen,1952-10-26,2013,economics,male,US
+868,896,Robert J. Shiller,1946-03-29,2013,economics,male,US
+869,903,John O'Keefe,1939-11-18,2014,medicine,male,US
+870,904,May-Britt Moser,1963-01-04,2014,medicine,female,NO
+871,905,Edvard I. Moser,1962-04-27,2014,medicine,male,NO
+872,906,Isamu Akasaki,1929-01-30,2014,physics,male,JP
+873,907,Hiroshi Amano,1960-09-11,2014,physics,male,JP
+874,908,Shuji Nakamura,1954-05-22,2014,physics,male,JP
+875,909,Eric Betzig,1960-01-13,2014,chemistry,male,US
+876,910,Stefan W. Hell,1962-12-23,2014,chemistry,male,RO
+877,911,William E. Moerner,1953-06-24,2014,chemistry,male,US
+878,912,Patrick Modiano,1945-07-30,2014,literature,male,FR
+879,913,Kailash Satyarthi,1954-01-11,2014,peace,male,IN
+880,914,Malala Yousafzai,1997-07-12,2014,peace,female,PK
+881,915,Jean Tirole,1953-08-09,2014,economics,male,FR
+882,916,William C. Campbell,1930-06-28,2015,medicine,male,IE
+883,917,Satoshi Ōmura,1935-07-12,2015,medicine,male,JP
+884,918,Youyou Tu,1930-12-30,2015,medicine,female,CN
+885,919,Takaaki Kajita,1959-03-09,2015,physics,male,JP
+886,920,Arthur B. McDonald,1943-08-29,2015,physics,male,CA
+887,921,Tomas Lindahl,1938-01-28,2015,chemistry,male,SE
+888,922,Paul Modrich,1946-06-13,2015,chemistry,male,US
+889,923,Aziz Sancar,1946-09-08,2015,chemistry,male,TR
+890,924,Svetlana Alexievich,1948-05-31,2015,literature,female,UA
+891,925,National Dialogue Quartet ,,2015,peace,org,
+892,926,Angus Deaton,1945-10-19,2015,economics,male,GB
+893,927,Yoshinori Ohsumi,1945-02-09,2016,medicine,male,JP
+894,928,David J. Thouless,1934-09-21,2016,physics,male,GB
+895,929,F. Duncan M. Haldane,1951-09-14,2016,physics,male,GB
+896,930,J. Michael Kosterlitz,1943-06-22,2016,physics,male,GB
+897,931,Jean-Pierre Sauvage,1944-10-21,2016,chemistry,male,FR
+898,932,Sir J. Fraser Stoddart,1942-05-24,2016,chemistry,male,GB
+899,933,Bernard L. Feringa,1951-05-18,2016,chemistry,male,NL
+900,934,Juan Manuel Santos,1951-08-10,2016,peace,male,CO
+901,935,Oliver Hart,1948-10-09,2016,economics,male,GB
+902,936,Bengt Holmström,1949-04-18,2016,economics,male,FI
+903,937,Bob Dylan,1941-05-24,2016,literature,male,US
+904,938,Jeffrey C. Hall,1945-05-03,2017,medicine,male,US
+905,939,Michael Rosbash,1944-03-07,2017,medicine,male,US
+906,940,Michael W. Young,1949-03-28,2017,medicine,male,US
+907,941,Rainer Weiss,1932-09-29,2017,physics,male,DE
+908,942,Barry C. Barish,1936-01-27,2017,physics,male,US
+909,943,Kip S. Thorne,1940-06-01,2017,physics,male,US
+910,944,Jacques Dubochet,1942-06-08,2017,chemistry,male,CH
+911,945,Joachim Frank,1940-09-12,2017,chemistry,male,DE
+912,946,Richard Henderson,1945-07-19,2017,chemistry,male,GB
+913,947,Kazuo Ishiguro,1954-11-08,2017,literature,male,JP
+914,948,International Campaign to Abolish Nuclear Weapons ,2007-00-00,2017,peace,org,
+915,949,Richard H. Thaler,1945-09-12,2017,economics,male,US
+916,958,James P. Allison,1948-08-07,2018,medicine,male,US
+917,959,Tasuku Honjo,1942-01-27,2018,medicine,male,JP
+918,960,Arthur Ashkin,1922-09-02,2018,physics,male,US
+919,961,Gérard Mourou,1944-06-22,2018,physics,male,FR
+920,962,Donna Strickland,1959-05-27,2018,physics,female,CA
+921,963,Frances H. Arnold,1956-07-25,2018,chemistry,female,US
+922,964,George P. Smith,1941-03-10,2018,chemistry,male,US
+923,965,Sir Gregory P. Winter,1951-04-14,2018,chemistry,male,GB
+924,966,Denis Mukwege,1955-03-01,2018,peace,male,CD
+925,967,Nadia Murad,1993-00-00,2018,peace,female,IQ
+926,968,William D. Nordhaus,1941-05-31,2018,economics,male,US
+927,969,Paul M. Romer,1955-00-00,2018,economics,male,US
+928,970,William Kaelin,1957-11-23,2019,medicine,male,US
+929,971,Peter Ratcliffe,1954-05-14,2019,medicine,male,GB
+930,972,Gregg Semenza,1956-07-12,2019,medicine,male,US
+931,973,James Peebles,1935-04-25,2019,physics,male,CA
+932,974,Michel Mayor,1942-01-12,2019,physics,male,CH
+933,975,Didier Queloz,1966-02-23,2019,physics,male,CH
+934,976,John Goodenough,1922-07-25,2019,chemistry,male,DE
+935,977,M. Stanley Whittingham,1941-12-22,2019,chemistry,male,GB
+936,978,Akira Yoshino,1948-01-30,2019,chemistry,male,JP
+937,979,Olga Tokarczuk,1962-01-29,2018,literature,female,PL
+938,980,Peter Handke,1942-12-06,2019,literature,male,AT
+939,981,Abiy Ahmed Ali,1976-08-15,2019,peace,male,ET
+940,982,Abhijit Banerjee,1961-02-21,2019,economics,male,IN
+941,983,Esther Duflo,1972-10-25,2019,economics,female,FR
+942,984,Michael Kremer,1964-11-12,2019,economics,male,US
+943,985,Harvey Alter,1935-09-12,2020,medicine,male,US
+944,986,Michael Houghton,1949-00-00,2020,medicine,male,GB
+945,987,Charles Rice,1952-08-25,2020,medicine,male,US
+946,988,Roger Penrose,1931-08-08,2020,physics,male,GB
+947,989,Reinhard Genzel,1952-03-24,2020,physics,male,DE
+948,990,Andrea Ghez,1965-06-16,2020,physics,female,US
+949,991,Emmanuelle Charpentier,1968-12-11,2020,chemistry,female,FR
+950,992,Jennifer A. Doudna,1964-02-19,2020,chemistry,female,US
+951,993,Louise Glück,1943-04-22,2020,literature,female,US
+952,994,World Food Programme ,1961-00-00,2020,peace,org,
+953,995,Paul Milgrom,1948-04-20,2020,economics,male,US
+954,996,Robert Wilson,1937-05-16,2020,economics,male,US
+955,997,David Julius,1955-11-04,2021,medicine,male,US
+956,998,Ardem Patapoutian,1967-00-00,2021,medicine,male,LB
+957,999,Syukuro Manabe,1931-09-21,2021,physics,male,JP
+958,1000,Klaus Hasselmann,1931-10-25,2021,physics,male,DE
+959,1001,Giorgio Parisi,1948-08-04,2021,physics,male,IT
+960,1002,Benjamin List,1968-01-11,2021,chemistry,male,DE
+961,1003,David MacMillan,1968-03-16,2021,chemistry,male,GB
+962,1004,Abdulrazak Gurnah,1948-00-00,2021,literature,male,
+963,1005,Maria Ressa,1963-10-02,2021,peace,female,PH
+964,1006,Dmitry Muratov,1961-00-00,2021,peace,male,RU
+965,1007,David Card,1956-00-00,2021,economics,male,CA
+966,1008,Joshua Angrist,1960-00-00,2021,economics,male,US
+967,1009,Guido Imbens,1963-09-03,2021,economics,male,NL

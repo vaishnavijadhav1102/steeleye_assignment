@@ -1,0 +1,1948 @@
+INFO:__main__:Started
+INFO:__main__:Data loaded successfully from https://raw.githubusercontent.com/ashwath92/nobel_json/main/laureates.json
+INFO:__main__:Data loaded successfully from https://raw.githubusercontent.com/ashwath92/nobel_json/main/countries.json
+INFO:__main__:DataFrame was successfully saved to laureates_data.csv
+INFO:__main__:DataFrame was successfully saved to country_data.csv
+INFO:__main__:Columns id successfully added to output DataFrame.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Column name created successfully.
+INFO:__main__:Columns born successfully added to output DataFrame.
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Successfully processed unique years and categories
+INFO:__main__:Columns gender successfully added to output DataFrame.
+INFO:__main__:DataFrames merged successfully
+INFO:__main__:Columns ['id', 'name', 'dob', 'unique_prize_year', 'unique_prize_category', 'gender', 'bornCountryCode'] successfully added to output DataFrame.
+INFO:__main__:DataFrame was successfully saved to result_data.csv
+INFO:__main__:Finished
